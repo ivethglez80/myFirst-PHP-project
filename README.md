@@ -8,9 +8,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.ibb.co/vP9xpT5/myfirstphp.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/6Zm3byG/firsdt.png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://i.ibb.co/vP9xpT5/myfirstphp.jpg" alt="project-screenshot" width="400" height="400/">
+
 
   
   
